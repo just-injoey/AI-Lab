@@ -1,0 +1,82 @@
+{
+    "Gandhinagar": {
+        "Ahmedabad": {
+            "time": 45,
+            "traffic": 2,
+            "weather": 3,
+            "road_condition": 4,
+            "safety": 5
+        },
+        "Baroda": {
+            "time": 90,
+            "traffic": 3,
+            "weather": 2,
+            "road_condition": 3,
+            "safety": 4
+        }
+    },
+    "Ahmedabad": {
+        "Gandhinagar": {
+            "time": 45,
+            "traffic": 2,
+            "weather": 3,
+            "road_condition": 4,
+            "safety": 5
+        },
+        "Baroda": {
+            "time": 75,
+            "traffic": 3,
+            "weather": 2,
+            "road_condition": 3,
+            "safety": 4
+        }
+    },
+    "Baroda": {
+        "Gandhinagar": {
+            "time": 90,
+            "traffic": 3,
+            "weather": 2,
+            "road_condition": 3,
+            "safety": 4
+        },
+        "Ahmedabad": {
+            "time": 75,
+            "traffic": 3,
+            "weather": 2,
+            "road_condition": 3,
+            "safety": 4
+        },
+        "Bharuch": {
+            "time": 45,
+            "traffic": 2,
+            "weather": 3,
+            "road_condition": 4,
+            "safety": 5
+        }
+    },
+    "Bharuch": {
+        "Baroda": {
+            "time": 45,
+            "traffic": 2,
+            "weather": 3,
+            "road_condition": 4,
+            "safety": 5
+        },
+        "Surat": {
+            "time": 45,
+            "traffic": 2,
+            "weather": 3,
+            "road_condition": 4,
+            "safety": 5
+        }
+    },
+    "Surat": {
+        "Bharuch": {
+            "time": 45,
+            "traffic": 2,
+            "weather": 3,
+            "road_condition": 4,
+            "safety": 5
+        }
+    }
+}
